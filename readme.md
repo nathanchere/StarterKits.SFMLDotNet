@@ -24,6 +24,4 @@ Support
 
 Contact: ?
 
-[![Build status](https://ci.appveyor.com/api/projects/status/xs6qcx2e0ntiril2)](https://ci.appveyor.com/project/nathanchere/starterkits-sfmldotnet)
-
-
+[![Build status ](https://ci.appveyor.com/api/projects/status/xs6qcx2e0ntiril2)](https://ci.appveyor.com/project/nathanchere/starterkits-sfmldotnet)
